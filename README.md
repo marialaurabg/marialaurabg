@@ -40,23 +40,14 @@ I am looking for job opportunities in web development, where I can expand and st
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marialaurabg&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 
-
-  
-
 <br/>  
 
-  
-
+ 
 <br/>  
 
-  
 
 <br/>  
 
