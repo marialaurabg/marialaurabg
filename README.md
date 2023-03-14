@@ -1,6 +1,9 @@
 
 ### <div align="center">I'm Maria Laura, a Full Stack Developer </div>  
   
+I am a person enthusiastic about technology and design. I am currently a Full Stack Developer and a student of Multimedia Design and Digital Arts. 
+
+I have been in contact with technology since I was little. Also, thanks to my work experiences, I have acquired knowledge about different technologies, which has taught me to learn in a natural and comfortable way.
 
 I am looking for job opportunities in web development, where I can expand and strengthen my knowledge. I am a very collaborative person, who enjoys teamwork and new challenges.  
   
